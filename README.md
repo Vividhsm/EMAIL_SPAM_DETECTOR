@@ -42,5 +42,4 @@ Acknowledgments:
 The dataset used for training the model is from the UCI Machine Learning Repository.
 This project is inspired by various online tutorials and resources.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
